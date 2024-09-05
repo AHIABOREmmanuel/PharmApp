@@ -1,27 +1,34 @@
 {
   "expo": {
-    "name": "pharmaApp",
-    "slug": "pharmaApp",
+    "name": "Epharma",
+    "slug": "Epharma",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/LOGO_JPOPE_DIGI-PHARMA_AHIABOR Koffi Emmanuel.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/LOGO_JPOPE_DIGI-PHARMA_AHIABOR Koffi Emmanuel.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nueldev.Epharma"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nueldev.Epharma"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "06a0107b-b2ec-48e1-bfc3-de64d83ad4c3"
+      }
     }
   }
 }

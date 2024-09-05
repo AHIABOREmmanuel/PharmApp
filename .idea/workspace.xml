@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efd7216f-f265-485a-89c1-9578c81d513a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/node_modules/@react-native-community/cli-platform-android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/@react-native/gradle-plugin">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-asset/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-constants/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-constants/scripts">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-file-system/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-font/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-keep-awake/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-modules-autolinking/scripts/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo-modules-core/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/expo/scripts">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native-safe-area-context/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native-screens/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native-svg/android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native-vector-icons">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.2.0\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2j83vRhqQh9smAkZ7qDIdyJvjZP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd7216f-f265-485a-89c1-9578c81d513a" name="Changes" comment="" />
+      <created>1720755162106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720755162106</updated>
+      <workItem from="1720755184267" duration="422000" />
+    </task>
+    <servers />
+  </component>
+</project>
